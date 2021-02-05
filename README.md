@@ -1,3 +1,2 @@
-# CarPricedata_EDA
- Basic EDA for car prices
-
+# CarPricedata
+#Basic eda on car prices
